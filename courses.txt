@@ -1,0 +1,3 @@
+CSE101,Computer Science,523,Dr. Smith
+MAT202,Calculus II,115,Prof. Johnson
+ENG001,English,521,Dr. Brown
